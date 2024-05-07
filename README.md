@@ -10,3 +10,5 @@ Comments:
 
 
 Here is an example of the training/testing output:
+
+![image of test data](https://github.com/Sunstrophe/Hangul-recogniction/blob/main/test_data.png?raw=true)
